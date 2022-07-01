@@ -1,4 +1,7 @@
+# File to refactor is : https://github.com/MariaIvanova01/JediGalaxy/blob/main/Main.java
+
 # JediGalaxy
+
 
 Peter is Jedi and so he starts gathering stars to grow stronger.
 His galaxy is represented as a two-dimensional array. Every cell in the matrix is a star that has a value. Peter starts at the given col and row. He can move only on the diagonal from the lowest left to the upper right and adds to his score all the stars (values) from the cells he passes through. Unfortunately, there is always an Evil power that tries to prevent his success. 
